@@ -37,5 +37,5 @@ connection = pyodbc.connect('Driver={SQL Server};' 'Server=<Your-Server-Name-Her
 Enter this command to run,
 
 ```bash
-python main.py
+python ProjectTTMS.py
 ```
